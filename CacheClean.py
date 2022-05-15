@@ -1,6 +1,6 @@
 import os, shutil
 from time import sleep
-from colorama import Fore,init,Back,Style
+from colorama import Fore,init,Back
 
 cache_folders = ['C:/Windows/Prefetch','C:/Windows/Temp','C:/Users/eymen/AppData/Local/Temp']
 
