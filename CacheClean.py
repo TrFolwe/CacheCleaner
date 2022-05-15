@@ -2,7 +2,7 @@ import os, shutil
 from time import sleep
 from colorama import Fore,init,Back
 
-cache_folders = ['C:/Windows/Prefetch','C:/Windows/Temp','C:/Users/eymen/AppData/Local/Temp']
+cache_folders = ['C:/Windows/Prefetch','C:/Windows/Temp','C:/Users/user/AppData/Local/Temp']
 
 folderContentsCount = 0
 
